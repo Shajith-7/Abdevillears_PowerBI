@@ -4,11 +4,11 @@ This Power BI dashboard showcases all the international centuries scored by AB d
 
 
 ## 📊 Dashboard Overview:
-🏅 Century Breakdown: Explore all centuries by match format (Test, ODI, T20) and opposition.<br>
-📆 Year-wise Performance: Analyze the distribution of centuries over the years.<br>
-🏟️ Venue Insights: See where AB de Villiers scored the most hundreds.<br>
-⚔️ Match Outcome: Correlate centuries with match results (win, loss, draw).<br>
-📈 Batting Statistics: Visual representation of runs scored, strike rates, and innings played.
+🏅 **Century Breakdown:** Explore all centuries by match format (Test, ODI, T20) and opposition.<br>
+📆 **Year-wise Performance:** Analyze the distribution of centuries over the years.<br>
+🏟️ **Venue Insights:** See where AB de Villiers scored the most hundreds.<br>
+⚔️ **Match Outcome:** Correlate centuries with match results (win, loss, draw).<br>
+📈 **Batting Statistics:** Visual representation of runs scored, strike rates, and innings played.
 
 ## 📚 Data Sources:
 The data used for this dashboard is sourced from publicly available cricket databases and match records.
