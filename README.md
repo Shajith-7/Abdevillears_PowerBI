@@ -1,6 +1,6 @@
 ## 🏏 AB de Villiers International Centuries Dashboard
 This Power BI dashboard showcases all the international centuries scored by AB de Villiers, one of cricket’s most explosive and versatile players. Known as "Mr. 360°", AB de Villiers redefined modern batting with his unmatched creativity and skill.
-![Alt Text]("C:\Users\shaji\Downloads\Ab Devillears")
+![Alt Text](https://static.standard.co.uk/s3fs-public/thumbnails/image/2015/01/18/13/461714456.jpg)
 
 
 ## 📊 Dashboard Overview:
