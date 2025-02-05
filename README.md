@@ -14,8 +14,8 @@ This Power BI dashboard showcases all the international centuries scored by AB d
 The data used for this dashboard is sourced from publicly available cricket databases and match records.
 
 ## 💾 File Details:
-**Ab Devillears International Centuries.csv** – Dataset
-**Ab Devillears International Centuries.pbix** – Power BI Dashboard
+**Ab Devillears International Centuries.csv** – Dataset<br>
+**Ab Devillears International Centuries.pbix** – Power BI Dashboard<br>
 **PowerBI_Dashboard.png** – Dashboard Image
 
 ## 🛠️ How to Use:
